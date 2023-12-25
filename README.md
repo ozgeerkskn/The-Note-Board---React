@@ -2,17 +2,17 @@
 It is a simple react application. The aim here is to learn the logic of creating component.
 
 
-## Usage
+# Usage
 1. Navigate to the project directory:
-# cd react-keeper-app
+## cd react-keeper-app
 
 2. Install dependencies:
-# npm install
+## npm install
 
 3. Start the development server:
-#npm start
+## npm start
 
-## Components
+# Components
 1. App.jsx
 The main entry point of the application.
 
