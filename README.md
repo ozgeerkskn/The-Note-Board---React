@@ -4,7 +4,7 @@ It is a simple react application. The aim here is to learn the logic of creating
 
 # Usage
 1. Navigate to the project directory:
-## cd react-keeper-app
+## cd my-react-app
 
 2. Install dependencies:
 ## npm install
