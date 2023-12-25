@@ -1,6 +1,8 @@
 # The-Note-Board---React
 It is a simple react application. The aim here is to learn the logic of creating component.
 
+![image](https://github.com/ozgeerkskn/The-Note-Board---React/assets/105421946/10500cc0-c28e-4b16-8de9-f185de8e7612)
+
 
 # Usage
 1. Navigate to the project directory:
